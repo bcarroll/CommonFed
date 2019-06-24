@@ -1,0 +1,9 @@
+venv 
+.pyc 
+data.db 
+migrations 
+dbdata.db 
+*.log 
+*.pyc 
+.vscode 
+tests/ 
