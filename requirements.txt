@@ -1,0 +1,11 @@
+cryptography>=1.4
+defusedxml
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+Flask-WTF
+pyOpenSSL
+python-dateutil
+pytz
+requests>=1.0.0
+six
